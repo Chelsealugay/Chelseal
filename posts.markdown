@@ -1,5 +1,5 @@
 ---
 layout: postdefault
-tile: "Posts" 
+title: "Posts"
 permalink: /posts/
 ---
