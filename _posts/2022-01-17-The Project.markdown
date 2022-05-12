@@ -1,0 +1,14 @@
+---
+layout: post
+title: "The Project"
+date: 2022-01-19
+---
+
+Our first reading of semester two was “Topography, Topology and Typography: The Library as Place, Text, and Tool in Caribbean Digital Research Classrooms” by Dr. Schuyler Esprit. It was extremely fascinating to read about her interest in digital humanities and the relationships that can be established among digital humanists, libraries, and Caribbean History. During lessons she sometimes spoke of her Create Caribbean journey, however, the reading gave me a deeper insight. 
+I do agree that the introduction of digital humanities to the Eastern Caribbean and more specifically Dominica, was essential for development. The reading helped me further understand the need for libraries, archives, and museums, as one's culture is their foundation. She mentioned that carrying out research about countries in the wider world is rather easier than when doing so for our own country. I understand that not only are these resources fundamental but so are the librarians and the interactions that they provide. Create Caribbean Research Institute Has now been active for 8 years, however, Dr. Esprit did encounter a few challenges during its establishment. The program enables students to engage in technology-based research and many different activities, allowing them to grow a deeper knowledge of their culture, background, and its preservation which is especially vital. I also understood the importance of blogs as a platform to share what we have learned and gain knowledge from others. Digital Humanities opens a whole new scope of studies that can be of great benefit to Dominica, the Eastern Caribbean, and the wider world. 
+I am a first-year intern at Create Caribbean Research Institute and the skills that I have learned and will continue to learn will be used to my advantage throughout my studies. 
+ 
+In the reading by Kate Theimer, “Archives in Context and as Context”, Theimer uses a perfect analogy to relay what Digital Humanists, that is the tourist analogy. She perfectly differentiated aspects of archivists and Digital Humanists. 
+The word archive for example has different meanings to archivists and humanists. She gave a detailed discussion on archives by giving definitions and examples. She gave 3 definitions of archives that are identified by digital humanists, emphasizing that it is in fact not a selection.
+She gives an account of what defines the work of archivists and the principles that make up the primary differences between archives and other collections. 
+I understand her point of view on the discrepancy and that the humanists’ definition may be seen as incomplete. I also understand her fear that as the definition broadens the true essence of archives and their original context may be lost. I think that this discussion was rather informative and that Theimer covered very valid points.
